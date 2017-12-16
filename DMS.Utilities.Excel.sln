@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.Utilities.Excel", "DMS.Utilities.Excel\DMS.Utilities.Excel.csproj", "{95D941D6-8C6C-45AE-8F81-C7A6C0C22EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMS.Utilities.ExcelExport", "DMS.Utilities.ExcelExport\DMS.Utilities.ExcelExport.csproj", "{204C1A0C-89EB-4024-A9FE-F100CDEE687B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95D941D6-8C6C-45AE-8F81-C7A6C0C22EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D941D6-8C6C-45AE-8F81-C7A6C0C22EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D941D6-8C6C-45AE-8F81-C7A6C0C22EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D941D6-8C6C-45AE-8F81-C7A6C0C22EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{204C1A0C-89EB-4024-A9FE-F100CDEE687B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204C1A0C-89EB-4024-A9FE-F100CDEE687B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204C1A0C-89EB-4024-A9FE-F100CDEE687B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204C1A0C-89EB-4024-A9FE-F100CDEE687B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22B58E05-E949-4199-965F-7EB8E07A9420}
+	EndGlobalSection
+EndGlobal

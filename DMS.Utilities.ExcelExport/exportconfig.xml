@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ExportCfg>
+  <Connection>data source=10.88.17.51\SQLSERVER_PEPSI;initial catalog=EMSDW;persist security info=True;user id=u_dms;password=1qaZ2wsX;</Connection>
+  <Sql>Select top 12 * from dimproduct</Sql>
+  <Stored>false</Stored>
+  <FilePath>export\data_[NOW].xlsx</FilePath>
+  <BreakPage>true</BreakPage>
+  <PageSize>10</PageSize>
+  <Timeout>120</Timeout>
+</ExportCfg>
